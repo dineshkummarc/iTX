@@ -1,0 +1,43 @@
+#icon {
+	-webkit-transform: scale(.5);
+	-webkit-background-clip: padding-box;	
+	
+	background-color: #48c7fe;
+	border: 5px #ececec solid;
+	-webkit-border-radius: 128px;
+	-moz-border-radius: 128px;
+	-o-border-radius: 128px;
+	border-radius: 128px;
+	-webkit-box-shadow: 0px 4px 8px #808080, inset 0px 0px 240px #0265cd, inset 0px 0px 240px #000f4a, inset 0px 60px 240px #000f4a, inset 20px 0px 240px #000f4a, inset -20px 0px 240px #000f4a, inset 0px 5px 0px #000;
+	-moz-box-shadow: 0px 4px 8px #808080, inset 0px 0px 240px #0265cd, inset 0px 0px 240px #000f4a, inset 0px 60px 240px #000f4a, inset 20px 0px 240px #000f4a, inset -20px 0px 240px #000f4a, inset 0px 5px 0px #000;
+	box-shadow: 0px 4px 8px #808080, inset 0px 0px 240px #0265cd, inset 0px 0px 240px #000f4a, inset 0px 60px 240px #000f4a, inset 20px 0px 240px #000f4a, inset -20px 0px 240px #000f4a, inset 0px 5px 0px #000;
+	font-size: 200px;
+	height: 252px;
+	line-height: 252px;
+	margin: auto;
+	overflow: hidden;
+	text-align: center;
+	text-shadow: 0px 2px 4px #FFF, 0px 0px 20px #FFF;
+	width: 252px;
+}
+
+#glossy {
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(255,255,255,.9)), to(rgba(255,255,255,.0)), color-stop(.5, rgba(255,255,255,.8)));
+	
+	-webkit-border-radius: 0px 0px 278px 278px;
+	-moz-border-radius: 0px 0px 278px 278px;
+	-o-border-radius: 0px 0px 278px 278px;
+	border-radius: 0px 0px 278px 278px;
+	margin-top: -120px;
+	margin-left: -150px;
+	height: 252px;
+	line-height: 352px;
+	width: 552px;
+
+}
+
+#note {
+	position: absolute;
+	margin-top: -140px;
+	margin-left: 50px;
+}
